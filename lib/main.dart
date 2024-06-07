@@ -48,7 +48,7 @@ class _MyHomePageState extends State<MyHomePage> {
         },
       ),
       ElevatedButton(
-        child: Text('Eleveted Button'),
+        child: Text('Elevated Button'),
         onPressed: () {
           print('Elevated button pressed');
         }
